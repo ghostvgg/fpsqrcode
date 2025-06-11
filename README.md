@@ -32,10 +32,14 @@ Built using:
   "fps_id": "+852-91234567",
   "merchant_name": "My Shop",
   "city": "HK",
+  "dynamic": true,
   "amount": "88.00",
   "currency": "HKD",
+  "merchant_timeout": "250630115030",
+  "reference_label": "L654321",
+  "bill_number": "Bill123456"
   "payment_operator": {
-    "global_identifier": "hk.com.hkicl",
+    "global_unique_identifier": "hk.com.hkicl",
     "extra_fields": {
       "01": "txnRef123",
       "02": "sessionTokenXYZ"

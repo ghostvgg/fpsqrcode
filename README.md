@@ -37,7 +37,7 @@ Built using:
   "currency": "HKD",
   "merchant_timeout": "250630115030",
   "reference_label": "L654321",
-  "bill_number": "Bill123456"
+  "bill_number": "Bill123456",
   "payment_operator": {
     "global_unique_identifier": "hk.com.hkicl",
     "extra_fields": {
